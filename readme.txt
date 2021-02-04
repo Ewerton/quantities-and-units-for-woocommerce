@@ -1,3 +1,7 @@
+O repositório original parece que não é mais atualizado.
+Vou implementar compatibilização com o WooCommerce em versão maior que 3.0
+
+
 === Quantities and Units for WooCommerce ===
 Contributors: greatwitenorth
 Tags: woocommerce, product quantities, product minimum values, product maximum values, product step values, incremental product quantities, min, max, decimal
